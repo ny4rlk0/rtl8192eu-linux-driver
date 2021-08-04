@@ -1,5 +1,5 @@
 # rtl8192eu linux drivers
-
+Tested on Raspberry Pi Zero v1.5 TP-Link TL WN823N RTL8192EU.
 **NOTE:** This branch is based on Realtek's driver versioned 4.4.1. `master` is based on 4.3.1.1 originally.
 
 The official drivers for D-Link DWA-131 Rev E, with patches to keep it working on newer kernels.
